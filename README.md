@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jones Souza</h1>
-<h3 align="center">Software engineering is my passion!</h3>
+<h3 align="center">Software Engineering</h3>
 
 - 🔭 I’m currently working on [My first steps](https://github.com/jonessouzasilva)
 
