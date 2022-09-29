@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FULL Stack Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, JavaScript, HTML5 CSS3**
 
 - 📫 How to reach me **jonesouza.silv@gmail.com**
 
