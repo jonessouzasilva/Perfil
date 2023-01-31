@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jones Souza</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on [My first steps](https://curriculoweb-jones-souza.web.app/)
 
-- 🌱 I’m currently learning **FULL Stack Python**
+- 🌱 I’m currently learning **Front-end**
 
 - 💬 Ask me about **Python, JavaScript, HTML5, CSS3**
 
