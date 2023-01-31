@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-end**
 
-- 💬 Ask me about **Python, JavaScript, HTML5, CSS3**
+- 💬 Ask me about **JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **jonesouza.silv@gmail.com**
 
